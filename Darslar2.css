@@ -1,0 +1,984 @@
+.block17,
+.malumot4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+.qidirish1 {
+  top: 126px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.04em;
+  display: inline-block;
+  width: 476px;
+  height: 23px;
+  border: none;
+  
+}
+.qidirish1:focus{
+  outline: none;
+}
+
+.block17 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 327px;
+}
+.malumot4 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.info4,
+.loyiha-haqida1 {
+  position: absolute;
+  width: 125px;
+}
+.loyiha-haqida1 {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info4 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish4,
+.div6,
+.infoshamchiroquz1 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish4 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div6,
+.infoshamchiroquz1 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.infoshamchiroquz1 {
+  top: 66px;
+  width: 183px;
+}
+.contact4 {
+  position: absolute;
+  top: 70px;
+  left: 625px;
+  width: 183px;
+  height: 91px;
+}
+.platforma4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.grantlar1,
+.kasblar1,
+.kongilochar1,
+.psixologik-test7,
+.universitetlar1,
+.vakansiyalar1 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.grantlar1,
+.kasblar1,
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 66px;
+  width: 75px;
+}
+.kasblar1,
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 99px;
+  width: 70px;
+}
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 132px;
+  width: 119px;
+}
+.kongilochar1,
+.vakansiyalar1 {
+  top: 165px;
+  width: 111px;
+}
+.kongilochar1 {
+  top: 198px;
+  width: 109px;
+}
+.logo4,
+.platform4 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 128px;
+  height: 223px;
+}
+.logo4 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni4,
+.shamchiroq-2023-barcha1 {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.shamchiroq-2023-barcha1 {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 408px;
+}
+.logo-parent1 {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 408px;
+  height: 233px;
+}
+.rect-child37,
+.rect-child38,
+.rect-child39,
+.rect-child40 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child38,
+.rect-child39,
+.rect-child40 {
+  top: 10.5px;
+}
+.rect-child39,
+.rect-child40 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child40 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect10 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom10,
+.online10 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom10 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new10 {
+  position: absolute;
+  top: 40px;
+  left: 96px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.block-25,
+.block18,
+.footer4 {
+  position: absolute;
+  width: 100%;
+}
+.footer4 {
+  top: 1528px;
+  left: 0;
+  height: 327px;
+  font-size: var(--text-body-1-size);
+  color: var(--primaty-grey-dark);
+}
+.block-25,
+.block18 {
+  height: 1448px;
+}
+.block18 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-25 {
+  top: 80px;
+  left: 1px;
+}
+.block-26,
+.block19,
+.block20 {
+  position: absolute;
+  width: 100%;
+  height: 109px;
+}
+.block19 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-26,
+.block20 {
+  top: 80px;
+  left: 1px;
+}
+.block20 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 80px;
+}
+.mingcutenotification-fill-icon4 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.anvar4 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.account-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightblue);
+  width: 45px;
+  height: 45px;
+}
+.a8 {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  color: var(--color-teal);
+  width: 15px;
+  height: 21px;
+}
+.account8,
+.asosiy4 {
+  position: absolute;
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy4 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 59.31px;
+  height: 23px;
+}
+.darslar8,
+.tadbirlar7 {
+  width: 89.51px;
+  cursor: pointer;
+}
+.tadbirlar7 {
+  position: absolute;
+  top: 0;
+  left: 248px;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.darslar8 {
+  left: 109px;
+}
+.chat4,
+.darslar8,
+.faollar-jadvali7,
+.interaktiv7 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.interaktiv7 {
+  left: 387px;
+  width: 100.29px;
+  cursor: pointer;
+}
+.chat4,
+.faollar-jadvali7 {
+  left: 645px;
+  width: 127.25px;
+}
+.chat4 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon15 {
+  position: absolute;
+  height: 26.09%;
+  width: 15.58%;
+  top: 34.78%;
+  right: 0;
+  bottom: 39.13%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari4,
+.logo-new11,
+.navbar4 {
+  position: absolute;
+  top: 0;
+  left: 537px;
+  width: 58.76px;
+  height: 23px;
+}
+.logo-new11,
+.navbar4 {
+  top: 30px;
+  left: 344px;
+  width: 772.25px;
+}
+.logo-new11 {
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header4 {
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  color: var(--primaty-grey-dark);
+}
+.group-child4,
+.header4,
+.search-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.search-item {
+  border-radius: var(--br-51xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 588px;
+  height: 51px;
+}
+.group-child4 {
+  border-radius: var(--br-36xl);
+  background-color: var(--color-darkturquoise);
+  width: 51px;
+  height: 43px;
+}
+.heroiconsmagnifying-glass-20-1 {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.rectangle-container {
+  position: absolute;
+  top: 4px;
+  left: 532px;
+  width: 51px;
+  height: 43px;
+}
+.qidirish1,
+.search1 {
+  position: absolute;
+  top: 112px;
+  left: 426px;
+  width: 588px;
+  height: 51px;
+}
+.qidirish1 {
+  top: 126px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.04em;
+  display: inline-block;
+  width: 476px;
+  height: 23px;
+}
+.card-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  width: 994px;
+  height: 528px;
+}
+.image-39-icon {
+  position: absolute;
+  top: 10px;
+  left: 63px;
+  width: 850px;
+  height: 509px;
+  object-fit: cover;
+}
+.card,
+.sidebar-child {
+  position: absolute;
+  top: 275px;
+  left: 384px;
+  width: 994px;
+  height: 528px;
+}
+.sidebar-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 3px 4px 6px rgba(0, 0, 0, 0.25);
+  border: 0.5px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 346px;
+  height: 1311px;
+}
+.kurs-mavzulari,
+.kurs-mavzulari-wrapper {
+  position: absolute;
+  width: 222px;
+  height: 22px;
+}
+.kurs-mavzulari {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+}
+.kurs-mavzulari-wrapper {
+  top: 16px;
+  left: 16px;
+}
+.epvideo-play-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.dars-nomi,
+.epvideo-play-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.dars-nomi {
+  left: 26px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 197px;
+}
+.epvideo-play-group {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-container,
+.epvideo-play-parent1,
+.epvideo-play-parent2 {
+  position: absolute;
+  top: 210px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-parent1,
+.epvideo-play-parent2 {
+  top: 390px;
+}
+.epvideo-play-parent2 {
+  top: 120px;
+}
+.epvideo-play-parent3,
+.epvideo-play-parent4,
+.epvideo-play-parent5 {
+  position: absolute;
+  top: 300px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-parent4,
+.epvideo-play-parent5 {
+  top: 480px;
+}
+.epvideo-play-parent5 {
+  top: 60px;
+}
+.epvideo-play-parent6,
+.epvideo-play-parent7,
+.epvideo-play-parent8 {
+  position: absolute;
+  top: 240px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-parent7,
+.epvideo-play-parent8 {
+  top: 420px;
+}
+.epvideo-play-parent8 {
+  top: 150px;
+}
+.epvideo-play-parent10,
+.epvideo-play-parent11,
+.epvideo-play-parent9 {
+  position: absolute;
+  top: 330px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-parent10,
+.epvideo-play-parent11 {
+  top: 510px;
+}
+.epvideo-play-parent11 {
+  top: 90px;
+}
+.epvideo-play-parent12,
+.epvideo-play-parent13,
+.epvideo-play-parent14 {
+  position: absolute;
+  top: 270px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.epvideo-play-parent13,
+.epvideo-play-parent14 {
+  top: 450px;
+}
+.epvideo-play-parent14 {
+  top: 180px;
+}
+.dars,
+.epvideo-play-parent15,
+.epvideo-play-parent16 {
+  position: absolute;
+  top: 360px;
+  left: 0;
+  width: 223px;
+  height: 22px;
+}
+.dars,
+.epvideo-play-parent16 {
+  top: 540px;
+}
+.dars {
+  top: 54px;
+  left: 15px;
+  height: 562px;
+}
+.darslar-2-child,
+.sidebar {
+  position: absolute;
+  top: 189px;
+  left: 1px;
+  width: 346px;
+  height: 1311px;
+}
+.darslar-2-child {
+  top: 355px;
+  left: 0;
+  background-color: rgba(178, 235, 242, 0.4);
+  width: 347px;
+  height: 40px;
+}
+.dars-nomi17 {
+  position: absolute;
+  top: 228px;
+  left: 384px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 350px;
+  height: 21px;
+}
+.description-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-white);
+  width: 994px;
+  height: 183px;
+}
+.lorem-ipsum-is4 {
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 947px;
+  height: 142px;
+}
+.description {
+  position: absolute;
+  top: 821px;
+  left: 384px;
+  width: 994px;
+  height: 183px;
+}
+.b9,
+.i,
+.s {
+  position: absolute;
+  letter-spacing: -0.01em;
+  width: 25.28px;
+}
+.s {
+  top: 92.43px;
+  left: 157.99px;
+  text-decoration: line-through;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 38.28px;
+}
+.b9,
+.i {
+  top: 98.33px;
+  left: 101.1px;
+  font-size: 30.34px;
+  display: inline-block;
+  font-family: var(--font-times-new-roman);
+  height: 32.68px;
+}
+.b9 {
+  top: 97.74px;
+  left: 48px;
+  font-size: 27.81px;
+  font-weight: 500;
+  font-family: var(--font-helvetica-neue);
+  height: 31.74px;
+}
+.paperclip-icon {
+  position: absolute;
+  top: 103.05px;
+  left: 214.88px;
+  width: 25.29px;
+  height: 23.61px;
+  overflow: hidden;
+}
+.comment-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 994px;
+  height: 478px;
+}
+.abbos-nazarov,
+.lorem-ipsum-is5 {
+  position: absolute;
+  left: 53px;
+  display: inline-block;
+}
+.abbos-nazarov {
+  top: 0;
+  font-weight: 600;
+  width: 202px;
+  height: 23px;
+}
+.lorem-ipsum-is5 {
+  top: 21px;
+  font-size: var(--font-size-sm);
+  width: 881px;
+  height: 118px;
+}
+.account9 {
+  position: absolute;
+  top: 155px;
+  left: 28px;
+  width: 934px;
+  height: 139px;
+}
+.j,
+.lorem-ipsum-is6 {
+  position: absolute;
+  display: inline-block;
+}
+.lorem-ipsum-is6 {
+  top: 21px;
+  left: 53px;
+  font-size: var(--font-size-sm);
+  width: 881px;
+  height: 24px;
+}
+.j {
+  top: 12px;
+  left: 15px;
+  color: var(--color-teal);
+  text-align: center;
+  width: 15px;
+  height: 21px;
+}
+.account10,
+.group-child5 {
+  position: absolute;
+  top: 288px;
+  left: 28px;
+  width: 934px;
+  height: 45px;
+}
+.group-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 945px;
+  height: 92px;
+}
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 50px;
+  left: 3px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 938px;
+  height: 38px;
+}
+.group-child7 {
+  top: 54px;
+  left: 814px;
+  background-color: var(--color-darkturquoise);
+  width: 120px;
+  height: 32px;
+}
+.izohingizni-yozib-qoldiring {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 907px;
+  height: 24px;
+}
+.yuborish1 {
+  position: absolute;
+  top: 61px;
+  left: 830px;
+  letter-spacing: -0.01em;
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 87px;
+  height: 18px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 45px;
+  left: 28px;
+  width: 945px;
+  height: 92px;
+  color: var(--color-gray-100);
+}
+.comment,
+.description1 {
+  position: absolute;
+  width: 994px;
+  height: 478px;
+}
+.comment {
+  top: 0;
+  left: 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primaty-grey-dark);
+  font-family: var(--text-body-1);
+}
+.description1 {
+  top: 1022px;
+  left: 384px;
+  text-align: center;
+  font-size: 35.4px;
+  color: var(--color-dimgray);
+  font-family: var(--font-helvetica);
+}
+.toggle-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-48xl);
+  background-color: var(--color-white);
+  width: 53px;
+  height: 27px;
+}
+.toggle-child1 {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  width: 23px;
+  height: 23px;
+}
+.toggle1 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 53px;
+  height: 27px;
+}
+.darslar9,
+.kurslar1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 20px;
+}
+.darslar9 {
+  top: 3px;
+  left: 136px;
+  height: 21px;
+}
+.button-child4,
+.k-d1 {
+  position: absolute;
+  top: 127px;
+  left: 1066px;
+  width: 193px;
+  height: 27px;
+}
+.button-child4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-orange);
+  width: 185px;
+  height: 44px;
+}
+.ustoz-bilan-chat {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 143.23px;
+  height: 19px;
+}
+.button6 {
+  position: absolute;
+  top: 217px;
+  right: 50px;
+  width: 185px;
+  height: 44px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.darslar-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1876px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--text-body-1);
+}

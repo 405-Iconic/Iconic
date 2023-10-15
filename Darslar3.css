@@ -1,0 +1,714 @@
+.block13,
+.malumot3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.block13 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 327px;
+}
+.malumot3 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.info3,
+.loyiha-haqida {
+  position: absolute;
+  width: 125px;
+}
+.loyiha-haqida {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info3 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish3,
+.div5 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish3 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div5 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.contact3,
+.infoshamchiroquz {
+  position: absolute;
+  width: 183px;
+}
+.infoshamchiroquz {
+  top: 66px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+}
+.contact3 {
+  top: 70px;
+  left: 625px;
+  height: 91px;
+}
+.platforma3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.grantlar,
+.kasblar,
+.kongilochar,
+.psixologik-test6,
+.universitetlar,
+.vakansiyalar {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.grantlar,
+.kasblar,
+.kongilochar,
+.universitetlar,
+.vakansiyalar {
+  top: 66px;
+  width: 75px;
+}
+.kasblar,
+.kongilochar,
+.universitetlar,
+.vakansiyalar {
+  top: 99px;
+  width: 70px;
+}
+.kongilochar,
+.universitetlar,
+.vakansiyalar {
+  top: 132px;
+  width: 119px;
+}
+.kongilochar,
+.vakansiyalar {
+  top: 165px;
+  width: 111px;
+}
+.kongilochar {
+  top: 198px;
+  width: 109px;
+}
+.logo3,
+.platform3 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 128px;
+  height: 223px;
+}
+.logo3 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni3,
+.shamchiroq-2023-barcha {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.shamchiroq-2023-barcha {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 408px;
+}
+.group-div {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 408px;
+  height: 233px;
+}
+.rect-child29,
+.rect-child30,
+.rect-child31,
+.rect-child32 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child30,
+.rect-child31,
+.rect-child32 {
+  top: 10.5px;
+}
+.rect-child31,
+.rect-child32 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child32 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect8 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom8,
+.online8 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom8 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new8 {
+  position: absolute;
+  top: 40px;
+  left: 96px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.block-23,
+.block14,
+.footer3 {
+  position: absolute;
+  width: 100%;
+}
+.footer3 {
+  top: 930px;
+  left: 0;
+  height: 327px;
+  font-size: var(--text-body-1-size);
+}
+.block-23,
+.block14 {
+  height: 850px;
+}
+.block14 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-23 {
+  top: 80px;
+  left: 1px;
+}
+.block-24,
+.block15,
+.block16 {
+  position: absolute;
+  width: 100%;
+  height: 109px;
+}
+.block15 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-24,
+.block16 {
+  top: 80px;
+  left: 1px;
+}
+.block16 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 80px;
+}
+.mingcutenotification-fill-icon3 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.a3,
+.anvar3 {
+  position: absolute;
+  display: inline-block;
+}
+.anvar3 {
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  width: 52px;
+  height: 23px;
+}
+.a3 {
+  top: 12px;
+  left: 15px;
+  color: var(--color-teal);
+  width: 15px;
+  height: 21px;
+}
+.account3,
+.asosiy3 {
+  position: absolute;
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy3 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 59.31px;
+  height: 23px;
+}
+.darslar6,
+.tadbirlar6 {
+  width: 89.51px;
+  cursor: pointer;
+}
+.tadbirlar6 {
+  position: absolute;
+  top: 0;
+  left: 248px;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.darslar6 {
+  left: 109px;
+}
+.chat3,
+.darslar6,
+.faollar-jadvali6,
+.interaktiv6 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.interaktiv6 {
+  left: 387px;
+  width: 100.29px;
+  cursor: pointer;
+}
+.chat3,
+.faollar-jadvali6 {
+  left: 645px;
+  width: 127.25px;
+}
+.chat3 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon14 {
+  position: absolute;
+  height: 26.09%;
+  width: 15.58%;
+  top: 39.13%;
+  right: 0;
+  bottom: 34.78%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari3,
+.logo-new9,
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 537px;
+  width: 58.76px;
+  height: 23px;
+}
+.logo-new9,
+.navbar3 {
+  top: 30px;
+  left: 344px;
+  width: 772.25px;
+}
+.logo-new9 {
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header3 {
+  width: 100%;
+  height: 80px;
+  text-align: center;
+}
+.group-child,
+.header3,
+.search-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.search-child {
+  border-radius: var(--br-51xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 588px;
+  height: 51px;
+}
+.group-child {
+  border-radius: var(--br-36xl);
+  background-color: var(--color-darkturquoise);
+  width: 51px;
+  height: 43px;
+}
+.heroiconsmagnifying-glass-20- {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 4px;
+  left: 532px;
+  width: 51px;
+  height: 43px;
+}
+.qidirish,
+.search {
+  position: absolute;
+  top: 112px;
+  left: 426px;
+  width: 588px;
+  height: 51px;
+}
+.qidirish {
+  top: 126px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.04em;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  width: 476px;
+  height: 23px;
+}
+.toggle-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-48xl);
+  background-color: var(--color-white);
+  width: 53px;
+  height: 27px;
+}
+.toggle-item {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  width: 23px;
+  height: 23px;
+}
+.toggle {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 53px;
+  height: 27px;
+}
+.kurslar {
+  top: 2px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 20px;
+}
+.darslar7,
+.k-d,
+.kurslar {
+  position: absolute;
+}
+.darslar7 {
+  top: 3px;
+  left: 136px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 21px;
+}
+.k-d {
+  top: 127px;
+  left: 1066px;
+  width: 193px;
+  height: 27px;
+  color: var(--color-black);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 539px;
+}
+.ahmad-jumayev {
+  top: 0;
+  left: 53px;
+  font-weight: 600;
+  width: 202px;
+  height: 23px;
+}
+.a4,
+.ahmad-jumayev,
+.lorem-ipsum-is {
+  position: absolute;
+  display: inline-block;
+}
+.lorem-ipsum-is {
+  top: 21px;
+  left: 53px;
+  font-size: var(--font-size-sm);
+  width: 1173px;
+  height: 118px;
+}
+.a4 {
+  top: 12px;
+  left: 15px;
+  color: var(--color-teal);
+  text-align: center;
+  width: 15px;
+  height: 21px;
+}
+.account4,
+.lorem-ipsum-is1 {
+  position: absolute;
+  top: 32px;
+  left: 28px;
+  width: 1226px;
+  height: 139px;
+}
+.lorem-ipsum-is1 {
+  top: 21px;
+  left: 53px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 1173px;
+  height: 42px;
+}
+.account5 {
+  position: absolute;
+  top: 210px;
+  left: 28px;
+  width: 1226px;
+  height: 63px;
+}
+.anvar-nazarov,
+.lorem-ipsum-is2 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 1108px;
+}
+.anvar-nazarov {
+  top: 0;
+  font-weight: 600;
+  height: 23px;
+}
+.lorem-ipsum-is2 {
+  top: 21px;
+  font-size: var(--font-size-sm);
+  height: 24px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightblue);
+  width: 45px;
+  height: 45px;
+}
+.a6 {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  width: 15px;
+  height: 21px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: 1116px;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  color: var(--color-teal);
+}
+.account6,
+.account7 {
+  position: absolute;
+  top: 148px;
+  left: 93px;
+  width: 1161px;
+  height: 45px;
+  text-align: right;
+}
+.account7 {
+  top: 283px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1235px;
+  height: 92px;
+}
+.group-child3 {
+  position: absolute;
+  top: 50px;
+  left: 3px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 1227px;
+  height: 38px;
+}
+.xabar-yuboring {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 907px;
+  height: 24px;
+}
+.button-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkturquoise);
+  width: 120px;
+  height: 32px;
+}
+.yuborish {
+  position: absolute;
+  top: 7px;
+  left: 16px;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 87px;
+  height: 18px;
+}
+.button5 {
+  position: absolute;
+  top: 54px;
+  left: 1101px;
+  width: 120px;
+  height: 32px;
+  text-align: center;
+  color: var(--color-white);
+}
+.rectangle-group {
+  position: absolute;
+  top: 418px;
+  left: 28px;
+  width: 1235px;
+  height: 92px;
+  color: var(--color-gray-100);
+}
+.vector-parent {
+  position: absolute;
+  top: 236px;
+  left: 85px;
+  width: 1290px;
+  height: 539px;
+}
+.darslar-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1296px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primaty-grey-dark);
+  font-family: var(--text-body-1);
+}

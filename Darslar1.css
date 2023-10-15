@@ -1,0 +1,674 @@
+.block21,
+.malumot5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.block21 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 327px;
+}
+.malumot5 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.info5,
+.loyiha-haqida2 {
+  position: absolute;
+  width: 125px;
+}
+.loyiha-haqida2 {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info5 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish5,
+.div7,
+.infoshamchiroquz2 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish5 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div7,
+.infoshamchiroquz2 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.infoshamchiroquz2 {
+  top: 66px;
+  width: 183px;
+}
+.contact5 {
+  position: absolute;
+  top: 70px;
+  left: 625px;
+  width: 183px;
+  height: 91px;
+}
+.platforma5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.grantlar2,
+.kasblar2,
+.kongilochar2,
+.psixologik-test8,
+.universitetlar2,
+.vakansiyalar2 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.grantlar2,
+.kasblar2,
+.kongilochar2,
+.universitetlar2,
+.vakansiyalar2 {
+  top: 66px;
+  width: 75px;
+}
+.kasblar2,
+.kongilochar2,
+.universitetlar2,
+.vakansiyalar2 {
+  top: 99px;
+  width: 70px;
+}
+.kongilochar2,
+.universitetlar2,
+.vakansiyalar2 {
+  top: 132px;
+  width: 119px;
+}
+.kongilochar2,
+.vakansiyalar2 {
+  top: 165px;
+  width: 111px;
+}
+.kongilochar2 {
+  top: 198px;
+  width: 109px;
+}
+.logo5,
+.platform5 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 128px;
+  height: 223px;
+}
+.logo5 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni5,
+.shamchiroq-2023-barcha2 {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.shamchiroq-2023-barcha2 {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 408px;
+}
+.logo-parent2 {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 408px;
+  height: 233px;
+}
+.rect-child45,
+.rect-child46,
+.rect-child47,
+.rect-child48 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child46,
+.rect-child47,
+.rect-child48 {
+  top: 10.5px;
+}
+.rect-child47,
+.rect-child48 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child48 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect12 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom12,
+.online12 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom12 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new12 {
+  position: absolute;
+  top: 40px;
+  left: 96px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.footer5 {
+  position: absolute;
+  top: 1966px;
+  left: 0;
+  width: 100%;
+  height: 327px;
+  font-size: var(--text-body-1-size);
+  color: var(--primaty-grey-dark);
+}
+.block-27,
+.block22,
+.block23 {
+  position: absolute;
+  width: 100%;
+  height: 1835px;
+}
+.block22 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-27,
+.block23 {
+  top: 75px;
+  left: -3px;
+}
+.block23 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 80px;
+}
+.mingcutenotification-fill-icon5 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.anvar5 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.account-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightblue);
+  width: 45px;
+  height: 45px;
+}
+.a10 {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  color: var(--color-teal);
+  width: 15px;
+  height: 21px;
+}
+.account11,
+.asosiy5 {
+  position: absolute;
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy5 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 59.31px;
+  height: 23px;
+}
+.darslar10,
+.tadbirlar8 {
+  width: 89.51px;
+  cursor: pointer;
+}
+.tadbirlar8 {
+  position: absolute;
+  top: 0;
+  left: 248px;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.darslar10 {
+  left: 109px;
+}
+.chat5,
+.darslar10,
+.faollar-jadvali8,
+.interaktiv8 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.interaktiv8 {
+  left: 387px;
+  width: 100.29px;
+  cursor: pointer;
+}
+.chat5,
+.faollar-jadvali8 {
+  left: 645px;
+  width: 127.25px;
+}
+.chat5 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon16 {
+  position: absolute;
+  height: 26.09%;
+  width: 15.58%;
+  top: 39.13%;
+  right: 0;
+  bottom: 34.78%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari5,
+.logo-new13,
+.navbar5 {
+  position: absolute;
+  top: 0;
+  left: 537px;
+  width: 58.76px;
+  height: 23px;
+}
+.logo-new13,
+.navbar5 {
+  top: 30px;
+  left: 344px;
+  width: 772.25px;
+}
+.logo-new13 {
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header5 {
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  color: var(--primaty-grey-dark);
+}
+.group-child8,
+.header5,
+.search-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.search-inner {
+  border-radius: var(--br-51xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 588px;
+  height: 51px;
+}
+.group-child8 {
+  border-radius: var(--br-36xl);
+  background-color: var(--color-darkturquoise);
+  width: 51px;
+  height: 43px;
+}
+.heroiconsmagnifying-glass-20-2 {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 4px;
+  left: 532px;
+  width: 51px;
+  height: 43px;
+}
+.qidirish2,
+.search2 {
+  position: absolute;
+  top: 112px;
+  left: 426px;
+  width: 588px;
+  height: 51px;
+}
+
+
+
+.qidirish2 {
+  top: 126px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.04em;
+  display: inline-block;
+  width: 476px;
+  height: 23px;
+  border: none;
+  
+}
+.qidirish2:focus{
+  outline: none;
+}
+
+.card-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  width: 403px;
+  height: 368px;
+}
+.image-38-icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  border-radius: var(--br-2xs);
+  width: 377px;
+  height: 221px;
+  object-fit: cover;
+}
+.div8,
+.matematika-darslari,
+.oral-jabborov {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+  display: inline-block;
+  width: 377px;
+}
+.matematika-darslari {
+  top: 0;
+  font-size: var(--text-body-1-size);
+  color: var(--color-black);
+  height: 25px;
+}
+.div8,
+.oral-jabborov {
+  top: 25px;
+  height: 23px;
+}
+.div8 {
+  top: 48px;
+}
+.button-child5,
+.description2 {
+  position: absolute;
+  top: 239px;
+  left: 15px;
+  width: 377px;
+  height: 71px;
+}
+.button-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkturquoise);
+  height: 44px;
+}
+.organishni-boshlash {
+  position: absolute;
+  top: 13px;
+  left: 55.55px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 257.9px;
+  height: 19px;
+}
+.button7 {
+  position: absolute;
+  top: 314px;
+  left: 15px;
+  width: 377px;
+  height: 44px;
+  text-align: center;
+  color: var(--color-white);
+}
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  position: absolute;
+  top: 209px;
+  left: 59px;
+  width: 403px;
+  height: 368px;
+}
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  top: 1067px;
+}
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  top: 638px;
+}
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  top: 1496px;
+}
+.card5,
+.card6,
+.card7,
+.card8 {
+  top: 209px;
+  left: 519px;
+}
+.card6,
+.card7,
+.card8 {
+  top: 1067px;
+}
+.card7,
+.card8 {
+  top: 638px;
+}
+.card8 {
+  top: 1496px;
+}
+.card10,
+.card11,
+.card12,
+.card9,
+.toggle-child2 {
+  position: absolute;
+  top: 209px;
+  left: 979px;
+  width: 403px;
+  height: 368px;
+}
+.card10,
+.card11,
+.card12,
+.toggle-child2 {
+  top: 1067px;
+}
+.card11,
+.card12,
+.toggle-child2 {
+  top: 638px;
+}
+.card12,
+.toggle-child2 {
+  top: 1496px;
+}
+.toggle-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-48xl);
+  background-color: var(--color-white);
+  width: 53px;
+  height: 27px;
+}
+.toggle-child3 {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  width: 23px;
+  height: 23px;
+}
+.toggle2 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 53px;
+  height: 27px;
+}
+.darslar11,
+.kurslar2 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 20px;
+}
+.darslar11 {
+  top: 3px;
+  left: 136px;
+  height: 21px;
+}
+.k-d2 {
+  position: absolute;
+  top: 127px;
+  left: 1032px;
+  width: 193px;
+  height: 27px;
+  color: var(--color-black);
+}
+.darslar-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2293px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--text-body-1);
+}

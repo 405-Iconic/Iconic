@@ -1,0 +1,738 @@
+.block7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+  width: 100%;
+  height: 206px;
+}
+.span {
+  color: var(--color-black);
+}
+.iltimos-har-bir,
+.psixologik-test1 {
+  position: absolute;
+  top: 74.63px;
+  left: 518px;
+  letter-spacing: -0.04em;
+  line-height: 116%;
+  display: inline-block;
+  width: 404px;
+  height: 32.65px;
+}
+.iltimos-har-bir {
+  top: 141px;
+  left: 267px;
+  font-size: var(--text-body-1-size);
+  line-height: 140%;
+  font-weight: 600;
+  font-family: var(--text-body-1);
+  color: var(--primaty-grey-dark);
+  width: 905px;
+  height: 19.43px;
+}
+.block-11 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 100%;
+  height: 206px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-300);
+  font-family: var(--headings-heading-1);
+}
+.block-2-child {
+  background-color: var(--color-powderblue-100);
+  width: 100%;
+  height: 2028px;
+}
+.block-2-child,
+.checked-child,
+.option-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.option-child {
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 22.899999618530273px 250px -11.45px rgba(52, 41, 39, 0.08);
+  width: 90%;
+  height: 155px;
+}
+.checked-child {
+  border-radius: 5.08px;
+  background-color: var(--color-darkturquoise);
+  width: 33px;
+  height: 33px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 50.35%;
+  width: 63.46%;
+  top: 26.92%;
+  right: 17.31%;
+  bottom: 22.73%;
+  left: 19.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checked,
+.unchecked {
+  position: absolute;
+  top: 32px;
+  left: 66px;
+  width: 33px;
+  height: 33px;
+}
+.unchecked {
+  top: 91px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+}
+.nashriyot-bosmaxonalaridan-foy,
+.yer-qimirlashi-sabablarini {
+  position: absolute;
+  top: 39px;
+  left: 143px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.yer-qimirlashi-sabablarini {
+  top: 99px;
+}
+.option,
+.option1 {
+  position: absolute;
+  top: 52px;
+  left: 87px;
+  width: 1273px;
+  height: 155px;
+}
+.option1 {
+  top: 927px;
+}
+.checked-inner,
+.checked3,
+.unchecked3 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+.checked-inner {
+  top: 0;
+  left: 0;
+  border-radius: 5.08px;
+  background-color: var(--color-teal);
+}
+.checked3,
+.unchecked3 {
+  left: 66px;
+}
+.unchecked3 {
+  top: 32px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+}
+.checked3 {
+  top: 91px;
+}
+.option2,
+.option3,
+.option4 {
+  position: absolute;
+  top: 227px;
+  left: 87px;
+  width: 1273px;
+  height: 155px;
+}
+.option3,
+.option4 {
+  top: 1102px;
+}
+.option4 {
+  top: 402px;
+}
+.block-21,
+.option5,
+.option6,
+.option7,
+.option8,
+.option9 {
+  position: absolute;
+  top: 1277px;
+  left: 87px;
+  width: 1273px;
+  height: 155px;
+}
+.block-21,
+.option6,
+.option7,
+.option8,
+.option9 {
+  top: 577px;
+}
+.block-21,
+.option7,
+.option8,
+.option9 {
+  top: 1452px;
+}
+.block-21,
+.option8,
+.option9 {
+  top: 752px;
+}
+.block-21,
+.option9 {
+  top: 1627px;
+}
+.block-21 {
+  top: 286px;
+  left: -4px;
+  width: 100%;
+  height: 2028px;
+  text-align: left;
+  color: var(--color-darkslategray-400);
+}
+.back-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 3.4px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+}
+.b {
+  top: 11.02px;
+  left: 17.8px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 15.25px;
+  height: 27.97px;
+}
+.b,
+.b1,
+.back {
+  position: absolute;
+}
+.back {
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  text-align: left;
+  font-size: 25.42px;
+}
+.b1 {
+  top: 38.98px;
+  left: 33.05px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 15.25px;
+  height: 27.97px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.back-inner,
+.back1 {
+  top: 0;
+  width: 50px;
+  height: 50px;
+}
+.back1 {
+  position: absolute;
+  left: 612px;
+  text-align: left;
+  font-size: 25.42px;
+}
+.back-inner {
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  border: 3.4px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+}
+.b2,
+.back-inner,
+.back2 {
+  position: absolute;
+}
+.b2 {
+  top: 14px;
+  left: 17px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 15px;
+  height: 22px;
+}
+.back2 {
+  top: 0;
+  left: 77px;
+  width: 50px;
+  height: 50px;
+  color: var(--color-white);
+}
+.b8,
+.back3,
+.back4,
+.back5,
+.back6,
+.back7 {
+  position: absolute;
+  top: 0;
+  left: 381px;
+  width: 50px;
+  height: 50px;
+}
+.b8,
+.back4,
+.back5,
+.back6,
+.back7 {
+  left: 154px;
+}
+.b8,
+.back5,
+.back6,
+.back7 {
+  left: 458px;
+}
+.b8,
+.back6,
+.back7 {
+  left: 231px;
+}
+.b8,
+.back7 {
+  left: 535px;
+}
+.b8 {
+  top: 14px;
+  left: 308px;
+  font-size: 25.42px;
+  letter-spacing: 0.15em;
+  line-height: 100%;
+  display: inline-block;
+  width: 46px;
+  height: 23px;
+}
+.back-parent {
+  position: absolute;
+  top: 2101px;
+  left: 389px;
+  width: 662px;
+  height: 50px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkturquoise);
+}
+.back-parent a{
+  color: var(--color-darkturquoise);
+}
+
+.block8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 100%;
+  height: 80px;
+}
+.mingcutenotification-fill-icon1 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.anvar1 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.account-item {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-powderblue-200);
+  width: 45px;
+  height: 45px;
+}
+.a1,
+.account-item,
+.account1 {
+  position: absolute;
+}
+.a1 {
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  color: var(--color-darkturquoise);
+  width: 15px;
+  height: 21px;
+}
+.account1 {
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy1,
+.psixologik-test2 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.asosiy1 {
+  left: 0;
+  color: var(--color-black);
+  width: 59.31px;
+}
+.psixologik-test2 {
+  left: 78px;
+  width: 135.88px;
+  cursor: pointer;
+}
+.darslar2,
+.tadbirlar2 {
+  width: 89.51px;
+  cursor: pointer;
+}
+.tadbirlar2 {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.darslar2 {
+  left: 232px;
+}
+.chat1,
+.darslar2,
+.faollar-jadvali2,
+.interaktiv2 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.interaktiv2 {
+  left: 448px;
+  width: 100.29px;
+  cursor: pointer;
+}
+.chat1,
+.faollar-jadvali2 {
+  left: 644px;
+  width: 127.25px;
+}
+.chat1 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon12 {
+  position: absolute;
+  height: 25.34%;
+  width: 15.58%;
+  top: 39.71%;
+  right: 0;
+  bottom: 34.95%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari1,
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 567px;
+  width: 58.76px;
+  height: 23px;
+}
+.navbar1 {
+  top: 30px;
+  left: 344px;
+  width: 771.25px;
+}
+.rect-child13,
+.rect-child14,
+.rect-child15,
+.rect-child16 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child14,
+.rect-child15,
+.rect-child16 {
+  top: 10.5px;
+}
+.rect-child15,
+.rect-child16 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child16 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect4 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom4,
+.online4 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom4 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new4 {
+  position: absolute;
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header1 {
+  width: 100%;
+  height: 80px;
+  font-size: var(--font-size-base);
+}
+.block9,
+.header1,
+.malumot1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.block9 {
+  background-color: var(--color-gray-500);
+  width: 100%;
+  height: 327px;
+}
+.malumot1 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.faollar-jadvali3,
+.info1 {
+  position: absolute;
+  width: 125px;
+}
+.faollar-jadvali3 {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info1 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish1,
+.div3,
+.infoonline-classroomuz1 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish1 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div3,
+.infoonline-classroomuz1 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.infoonline-classroomuz1 {
+  top: 66px;
+  width: 225px;
+}
+.contact1 {
+  position: absolute;
+  top: 70px;
+  left: 625px;
+  width: 225px;
+  height: 91px;
+}
+.platforma1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.ai-bilan-suhbat1,
+.darslar3,
+.forum1,
+.interaktiv3,
+.psixologik-test3,
+.tadbirlar3 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.ai-bilan-suhbat1,
+.darslar3,
+.forum1,
+.interaktiv3,
+.tadbirlar3 {
+  top: 66px;
+  width: 75px;
+}
+.ai-bilan-suhbat1,
+.forum1,
+.interaktiv3,
+.tadbirlar3 {
+  top: 99px;
+  width: 119px;
+}
+.ai-bilan-suhbat1,
+.forum1,
+.interaktiv3 {
+  top: 132px;
+}
+.ai-bilan-suhbat1,
+.forum1 {
+  top: 165px;
+  width: 111px;
+}
+.ai-bilan-suhbat1 {
+  top: 198px;
+  width: 137px;
+}
+.logo1,
+.platform1 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 137px;
+  height: 223px;
+}
+.logo1 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni1,
+.online-classroom-20231 {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.online-classroom-20231 {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 458px;
+}
+.logo-group,
+.logo-new5 {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 458px;
+  height: 233px;
+}
+.logo-new5 {
+  top: 46px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.footer1 {
+  position: absolute;
+  top: 2311px;
+  left: 0;
+  width: 100%;
+  height: 327px;
+  text-align: left;
+}
+.psixologik-test-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2641px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--text-body-1-size);
+  color: var(--primaty-grey-dark);
+  font-family: var(--text-body-1);
+}

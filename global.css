@@ -1,0 +1,83 @@
+body, html {
+  margin: 0;
+  line-height: normal;
+  width: 100%;
+}
+
+:root {
+  /* fonts */
+  --headings-heading-1: "Dela Gothic One";
+  --text-body-1: Montserrat;
+  --font-lato: Lato;
+  --font-roboto: Roboto;
+  --font-inherit: inherit;
+  --font-helvetica-neue: "Helvetica Neue";
+  --font-times-new-roman: "Times New Roman";
+  --font-helvetica: Helvetica;
+
+  /* font sizes */
+  --font-size-mid-5: 17.5px;
+  --font-size-9xl: 28px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --headings-heading-1-size: 56px;
+  --text-body-1-size: 18px;
+  --headings-heading-2-size: 48px;
+  --font-size-mid: 17px;
+  --font-size-24xl-6: 43.6px;
+  --font-size-8xl-2: 27.2px;
+  --font-size-base-2: 16.2px;
+  --font-size-smi-2: 12.2px;
+  --font-size-6xl-4: 25.4px;
+  --font-size-3xl: 22px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #e0e0e0;
+  --color-black: #000;
+  --color-orange: #ffa000;
+  --color-darkturquoise: #00bcd4;
+  --primaty-grey-dark: #757575;
+  --color-gray-100: rgba(0, 0, 0, 0.38);
+  --color-gray-200: rgba(0, 0, 0, 0.87);
+  --color-gray-300: rgba(0, 0, 0, 0.42);
+  --color-gray-400: rgba(0, 0, 0, 0.54);
+  --color-gray-500: rgba(255, 255, 255, 0.5);
+  --color-teal: #2b788b;
+  --color-teal-100: #00838f;
+  --color-powderblue-200: #b2ebf2;
+  --color-powderblue-100: rgba(178, 235, 242, 0.5);
+  --color-lightblue: #c3dce3;
+  --color-darkslategray-200: #353639;
+  --color-darkslategray-100: #353539;
+  --color-darkslategray-300: #313638;
+  --color-darkslategray-400: #333;
+  --color-moccasin: #ffecb3;
+  --color-yellowgreen: #8bc34a;
+  --color-whitesmoke-100: #f8fafb;
+  --color-whitesmoke-200: #f4f3f3;
+  --color-silver: #bababa;
+  --color-darkgray: rgba(179, 170, 170, 0.38);
+  --color-dimgray: #5e5e5e;
+
+  /* Border radiuses */
+  --br-9xs-5: 3.5px;
+  --br-81xl: 100px;
+  --br-4xs-5: 8.5px;
+  --br-9xs-4: 3.4px;
+  --br-4xs-1: 8.1px;
+  --br-9xs: 4px;
+  --br-7xs-1: 5.1px;
+  --br-sm: 14px;
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+  --br-48xl: 67px;
+  --br-36xl: 55px;
+  --br-51xl: 70px;
+  --br-3xl: 22px;
+  --br-3xs: 10px;
+  --br-2xs: 11px;
+  --br-base: 16px;
+}

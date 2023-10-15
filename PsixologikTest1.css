@@ -1,0 +1,517 @@
+.block10,
+.button-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 739px;
+}
+.button-child2 {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-orange);
+  width: 185px;
+  height: 50px;
+}
+.bosh-sahifa {
+  position: absolute;
+  top: 17px;
+  left: 21px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 143px;
+  height: 15px;
+}
+.button4,
+.natija {
+  position: absolute;
+  top: 660px;
+  left: 623px;
+  width: 185px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.natija {
+  top: 38px;
+  left: 504px;
+  font-size: var(--headings-heading-2-size);
+  letter-spacing: -0.04em;
+  line-height: 116%;
+  font-family: var(--headings-heading-1);
+  color: var(--color-darkturquoise);
+  display: inline-block;
+  width: 530px;
+  height: 60px;
+}
+.sizda {
+  font-weight: 600;
+}
+.biznes-menejment-va {
+  color: var(--color-darkturquoise);
+}
+.asosiy-fanlar-matematika-container,
+.izoh-biznes-faoliyatlarini-container,
+.sizda-biznes-menejment-container {
+  position: absolute;
+  top: 126px;
+  left: 205px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 530px;
+}
+.asosiy-fanlar-matematika-container,
+.izoh-biznes-faoliyatlarini-container {
+  top: 198px;
+}
+.asosiy-fanlar-matematika-container {
+  top: 534px;
+}
+.ushbu-yonalishi-boyicha {
+  margin: 0;
+}
+.toshkent-moliya-instituti {
+  margin-bottom: 6px;
+}
+.toshkent-moliya-instituti-g {
+  margin: 0;
+  padding-left: 27px;
+  color: var(--color-darkturquoise);
+}
+.ushbu-yonalishi-boyicha-container {
+  position: absolute;
+  top: 270px;
+  left: 205px;
+  font-size: var(--font-inherit);
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 530px;
+}
+.block-22 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1440px;
+  height: 739px;
+}
+.psixologik-test-1-child {
+  position: absolute;
+  top: 3171.4px;
+  left: 228.4px;
+  border-top: 1.2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 982.2px;
+  height: 1.2px;
+}
+.image-33-1 {
+  position: absolute;
+  top: 334px;
+  left: 910px;
+  width: 393px;
+  height: 280px;
+  object-fit: cover;
+}
+.block11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 80px;
+}
+.mingcutenotification-fill-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.anvar2 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.account-inner {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-powderblue-200);
+  width: 45px;
+  height: 45px;
+}
+.a2,
+.account-inner,
+.account2 {
+  position: absolute;
+}
+.a2 {
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  color: var(--color-darkturquoise);
+  width: 15px;
+  height: 21px;
+}
+.account2 {
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy2,
+.psixologik-test4 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.asosiy2 {
+  left: 0;
+  color: var(--color-black);
+  width: 59.31px;
+}
+.psixologik-test4 {
+  left: 78px;
+  width: 135.88px;
+  cursor: pointer;
+}
+.darslar4,
+.tadbirlar4 {
+  width: 89.51px;
+  cursor: pointer;
+}
+.tadbirlar4 {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.darslar4 {
+  left: 232px;
+}
+.chat2,
+.darslar4,
+.faollar-jadvali4,
+.interaktiv4 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.interaktiv4 {
+  left: 448px;
+  width: 100.29px;
+  cursor: pointer;
+}
+.chat2,
+.faollar-jadvali4 {
+  left: 644px;
+  width: 127.25px;
+}
+.chat2 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 25.34%;
+  width: 15.58%;
+  top: 39.71%;
+  right: 0;
+  bottom: 34.95%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari2,
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 567px;
+  width: 58.76px;
+  height: 23px;
+}
+.navbar2 {
+  top: 30px;
+  left: 344px;
+  width: 771.25px;
+}
+.rect-child21,
+.rect-child22,
+.rect-child23,
+.rect-child24 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child22,
+.rect-child23,
+.rect-child24 {
+  top: 10.5px;
+}
+.rect-child23,
+.rect-child24 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child24 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect6 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom6,
+.online6 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom6 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new6 {
+  position: absolute;
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header2 {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 1440px;
+  height: 80px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.block12,
+.malumot2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.block12 {
+  background-color: var(--color-gray-500);
+  width: 1440px;
+  height: 327px;
+}
+.malumot2 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.faollar-jadvali5,
+.info2 {
+  position: absolute;
+  width: 125px;
+}
+.faollar-jadvali5 {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info2 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish2,
+.div4,
+.infoonline-classroomuz2 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish2 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div4,
+.infoonline-classroomuz2 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.infoonline-classroomuz2 {
+  top: 66px;
+  width: 225px;
+}
+.contact2 {
+  position: absolute;
+  top: 70px;
+  left: 625px;
+  width: 225px;
+  height: 91px;
+}
+.platforma2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.ai-bilan-suhbat2,
+.darslar5,
+.forum2,
+.interaktiv5,
+.psixologik-test5,
+.tadbirlar5 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.ai-bilan-suhbat2,
+.darslar5,
+.forum2,
+.interaktiv5,
+.tadbirlar5 {
+  top: 66px;
+  width: 75px;
+}
+.ai-bilan-suhbat2,
+.forum2,
+.interaktiv5,
+.tadbirlar5 {
+  top: 99px;
+  width: 119px;
+}
+.ai-bilan-suhbat2,
+.forum2,
+.interaktiv5 {
+  top: 132px;
+}
+.ai-bilan-suhbat2,
+.forum2 {
+  top: 165px;
+  width: 111px;
+}
+.ai-bilan-suhbat2 {
+  top: 198px;
+  width: 137px;
+}
+.logo2,
+.platform2 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 137px;
+  height: 223px;
+}
+.logo2 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni2,
+.online-classroom-20232 {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.online-classroom-20232 {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 458px;
+}
+.logo-container,
+.logo-new7 {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 458px;
+  height: 233px;
+}
+.logo-new7 {
+  top: 46px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.footer2 {
+  position: absolute;
+  top: 824px;
+  left: 0;
+  width: 1440px;
+  height: 327px;
+  font-size: var(--text-body-1-size);
+}
+.psixologik-test-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1146px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--primaty-grey-dark);
+  font-family: var(--text-body-1);
+}

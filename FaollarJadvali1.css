@@ -1,0 +1,795 @@
+.block11,
+.malumot2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.block11 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 327px;
+}
+.malumot2 {
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  width: 88px;
+}
+.info2,
+.loyiha-haqida1 {
+  position: absolute;
+  width: 125px;
+}
+.loyiha-haqida1 {
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  color: var(--primaty-grey-dark);
+  display: inline-block;
+}
+.info2 {
+  top: 70px;
+  left: 929px;
+  height: 58px;
+  color: var(--color-darkslategray-100);
+}
+.biz-bilan-boglanish2,
+.div2,
+.infoshamchiroquz1 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+}
+.biz-bilan-boglanish2 {
+  top: 0;
+  color: var(--color-darkslategray-200);
+  width: 174px;
+}
+.div2,
+.infoshamchiroquz1 {
+  top: 33px;
+  font-weight: 600;
+  width: 170px;
+}
+.infoshamchiroquz1 {
+  top: 66px;
+  width: 183px;
+}
+.contact2 {
+  position: absolute;
+  top: 70px;
+  left: 625px;
+  width: 183px;
+  height: 91px;
+}
+.platforma2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 93px;
+}
+.grantlar1,
+.kasblar1,
+.kongilochar1,
+.psixologik-test2,
+.universitetlar1,
+.vakansiyalar1 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.grantlar1,
+.kasblar1,
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 66px;
+  width: 75px;
+}
+.kasblar1,
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 99px;
+  width: 70px;
+}
+.kongilochar1,
+.universitetlar1,
+.vakansiyalar1 {
+  top: 132px;
+  width: 119px;
+}
+.kongilochar1,
+.vakansiyalar1 {
+  top: 165px;
+  width: 111px;
+}
+.kongilochar1 {
+  top: 198px;
+  width: 109px;
+}
+.logo2,
+.platform2 {
+  position: absolute;
+  top: 70px;
+  left: 1175px;
+  width: 128px;
+  height: 223px;
+}
+.logo2 {
+  top: 0;
+  left: 0;
+  width: 243.37px;
+  height: 57px;
+}
+.kelajak-sari-yolingizni2,
+.shamchiroq-2023-barcha1 {
+  position: absolute;
+  top: 76px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.shamchiroq-2023-barcha1 {
+  top: 211px;
+  font-size: var(--font-size-base);
+  width: 408px;
+}
+.logo-container {
+  position: absolute;
+  top: 54px;
+  left: 96px;
+  width: 408px;
+  height: 233px;
+}
+.rect-child13,
+.rect-child14,
+.rect-child15,
+.rect-child16 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  border-radius: var(--br-9xs-5);
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect-child14,
+.rect-child15,
+.rect-child16 {
+  top: 10.5px;
+}
+.rect-child15,
+.rect-child16 {
+  top: 0;
+  left: 20.5px;
+  background-color: var(--color-darkturquoise);
+  width: 28px;
+  height: 28px;
+}
+.rect-child16 {
+  top: 31px;
+  background-color: var(--color-orange);
+  width: 17.5px;
+  height: 17.5px;
+}
+.rect4 {
+  position: absolute;
+  top: 5.25px;
+  left: 0;
+  width: 48.5px;
+  height: 48.5px;
+}
+.classroom4,
+.online4 {
+  position: absolute;
+  top: 0;
+  left: 54.25px;
+  display: inline-block;
+  width: 117.25px;
+  height: 38.5px;
+}
+.classroom4 {
+  top: 35px;
+  left: 56px;
+  font-size: var(--font-size-mid-5);
+  width: 122.5px;
+  height: 19.25px;
+}
+.logo-new4 {
+  position: absolute;
+  top: 40px;
+  left: 96px;
+  width: 178.5px;
+  height: 54.25px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.block12,
+.footer2 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+.footer2 {
+  top: 1111px;
+  height: 327px;
+  font-size: var(--text-body-1-size);
+}
+.block12 {
+  top: 0;
+  background-color: var(--color-powderblue-100);
+  height: 1031px;
+}
+.faollar-jadvali3 {
+  position: absolute;
+  top: 181px;
+  left: 447px;
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  display: inline-block;
+  width: 546px;
+}
+.block-23 {
+  position: absolute;
+  top: 80px;
+  left: 1px;
+  width: 100%;
+  height: 1031px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-400);
+  font-family: var(--headings-heading-1);
+}
+.block-24,
+.block13,
+.block14 {
+  position: absolute;
+  width: 100%;
+  height: 109px;
+}
+.block13 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-100);
+}
+.block-24,
+.block14 {
+  top: 80px;
+  left: 1px;
+}
+.block14 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 80px;
+}
+.mingcutenotification-fill-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 1196px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.anvar2 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 52px;
+  height: 23px;
+}
+.account-inner {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightblue);
+  width: 45px;
+  height: 45px;
+}
+.a2,
+.account-inner,
+.account2 {
+  position: absolute;
+}
+.a2 {
+  top: 12px;
+  left: 15px;
+  display: inline-block;
+  color: var(--color-teal);
+  width: 15px;
+  height: 21px;
+}
+.account2 {
+  top: 19px;
+  left: 1244px;
+  width: 105px;
+  height: 45px;
+}
+.asosiy2,
+.darslar4,
+.tadbirlar3 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.asosiy2 {
+  left: 0;
+  color: var(--color-black);
+  width: 59.31px;
+}
+.darslar4,
+.tadbirlar3 {
+  left: 248px;
+  width: 89.51px;
+}
+.darslar4 {
+  left: 109px;
+}
+.interaktiv3 {
+  left: 387px;
+  width: 100.29px;
+}
+.chat2,
+.faollar-jadvali4,
+.interaktiv3 {
+  position: absolute;
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 23px;
+}
+.faollar-jadvali4 {
+  left: 645px;
+  width: 127.25px;
+  cursor: pointer;
+}
+.chat2 {
+  left: 0;
+  width: 46.37px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 26.09%;
+  width: 15.58%;
+  top: 30.43%;
+  right: 0;
+  bottom: 43.48%;
+  left: 84.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.kelajak-sari2,
+.logo-new5,
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 537px;
+  width: 58.76px;
+  height: 23px;
+}
+.logo-new5,
+.navbar2 {
+  top: 30px;
+  left: 344px;
+  width: 772.25px;
+}
+.logo-new5 {
+  top: 12px;
+  left: 85px;
+  width: 178.5px;
+  height: 54.25px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--headings-heading-1);
+}
+.header2 {
+  width: 100%;
+  height: 80px;
+  text-align: center;
+}
+.group-item,
+.header2,
+.search-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.search-item {
+  border-radius: var(--br-51xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 588px;
+  height: 51px;
+}
+.group-item {
+  border-radius: var(--br-36xl);
+  background-color: var(--color-darkturquoise);
+  width: 51px;
+  height: 43px;
+}
+.heroiconsmagnifying-glass-20-1 {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.rectangle-group {
+  position: absolute;
+  top: 4px;
+  left: 532px;
+  width: 51px;
+  height: 43px;
+}
+.qidirish1,
+.search1 {
+  position: absolute;
+  top: 112px;
+  left: 426px;
+  width: 588px;
+  height: 51px;
+}
+.qidirish1 {
+  top: 126px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.04em;
+  color: var(--color-gainsboro);
+  display: inline-block;
+  width: 476px;
+  height: 23px;
+}
+.toggle-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-48xl);
+  background-color: var(--color-white);
+  width: 53px;
+  height: 27px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  width: 23px;
+  height: 23px;
+}
+.toggle1 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 53px;
+  height: 27px;
+}
+.kurslar1 {
+  top: 2px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 20px;
+}
+.darslar5,
+.k-d1,
+.kurslar1 {
+  position: absolute;
+}
+.darslar5 {
+  top: 3px;
+  left: 136px;
+  letter-spacing: -0.04em;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  width: 57px;
+  height: 21px;
+}
+.k-d1 {
+  top: 127px;
+  left: 1066px;
+  width: 193px;
+  height: 27px;
+  color: var(--color-black);
+}
+.group-inner {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 1290px;
+  height: 694px;
+}
+.ahmad-jumayev,
+.b,
+.div3 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.ahmad-jumayev {
+  left: 38px;
+  font-weight: 600;
+  text-align: left;
+  width: 202px;
+  height: 23px;
+}
+.b,
+.div3 {
+  height: 21px;
+}
+.b {
+  left: 0;
+  color: var(--color-teal);
+  width: 15px;
+}
+.div3 {
+  left: 275px;
+  font-weight: 600;
+  width: 45px;
+}
+.account3,
+.account4,
+.account5 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  width: 320px;
+  height: 23px;
+}
+.account4,
+.account5 {
+  top: 312px;
+}
+.account5 {
+  top: 39px;
+}
+.ahmad-jumayev3,
+.b3,
+.div6 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.ahmad-jumayev3 {
+  left: 44px;
+  font-weight: 600;
+  text-align: left;
+  width: 202px;
+  height: 23px;
+}
+.b3,
+.div6 {
+  height: 21px;
+}
+.b3 {
+  left: 0;
+  color: var(--color-teal);
+  width: 21px;
+}
+.div6 {
+  left: 281px;
+  font-weight: 600;
+  width: 45px;
+}
+.account6,
+.account7 {
+  position: absolute;
+  top: 351px;
+  left: 3px;
+  width: 326px;
+  height: 23px;
+}
+.account7 {
+  top: 78px;
+  left: 9px;
+  width: 320px;
+}
+.ahmad-jumayev5,
+.b5,
+.div8 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.ahmad-jumayev5 {
+  left: 47px;
+  font-weight: 600;
+  text-align: left;
+  width: 202px;
+  height: 23px;
+}
+.b5,
+.div8 {
+  height: 21px;
+}
+.b5 {
+  left: 0;
+  color: var(--color-teal);
+  width: 24px;
+}
+.div8 {
+  left: 284px;
+  font-weight: 600;
+  width: 45px;
+}
+.account8,
+.account9 {
+  position: absolute;
+  top: 390px;
+  left: 0;
+  width: 329px;
+  height: 23px;
+}
+.account9 {
+  top: 117px;
+  left: 9px;
+  width: 320px;
+}
+.account10,
+.account11,
+.account12 {
+  position: absolute;
+  top: 429px;
+  left: 3px;
+  width: 326px;
+  height: 23px;
+}
+.account11,
+.account12 {
+  top: 156px;
+  left: 9px;
+  width: 320px;
+}
+.account12 {
+  top: 468px;
+  left: 3px;
+  width: 326px;
+}
+.account13,
+.account14,
+.account15 {
+  position: absolute;
+  top: 195px;
+  left: 9px;
+  width: 320px;
+  height: 23px;
+}
+.account14,
+.account15 {
+  top: 507px;
+  left: 3px;
+  width: 326px;
+}
+.account15 {
+  top: 234px;
+  left: 9px;
+  width: 320px;
+}
+.account16,
+.account17,
+.account18 {
+  position: absolute;
+  top: 546px;
+  left: 3px;
+  width: 326px;
+  height: 23px;
+}
+.account17,
+.account18 {
+  top: 273px;
+  left: 9px;
+  width: 320px;
+}
+.account18 {
+  top: 585px;
+  left: 3px;
+  width: 326px;
+}
+.account-container,
+.account-group,
+.account-parent {
+  position: absolute;
+  top: 134px;
+  left: 34px;
+  width: 329px;
+  height: 608px;
+}
+.account-container,
+.account-group {
+  left: 462px;
+}
+.account-container {
+  left: 899px;
+}
+.drop-down-list-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1290px;
+  height: 64px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 18.75%;
+  width: 1.4%;
+  top: 45.31%;
+  right: 2.09%;
+  bottom: 35.94%;
+  left: 96.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.drop-down-list,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1290px;
+  height: 64px;
+}
+.vector-parent {
+  top: 306px;
+  left: 85px;
+  height: 784px;
+  text-align: center;
+}
+.pythonda-dasturlash-asoslari {
+  position: absolute;
+  top: 327px;
+  left: 119px;
+  font-size: var(--text-body-1-size);
+  letter-spacing: -0.04em;
+  line-height: 100%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1171px;
+  height: 22px;
+}
+.faollar-jadvali-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1438px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primaty-grey-dark);
+  font-family: var(--text-body-1);
+}
